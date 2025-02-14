@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 1127895521912971771}
   - component: {fileID: 5501876344071141673}
   m_Layer: 0
-  m_Name: Cylinder
+  m_Name: GutterModel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -218,7 +218,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 1.5
+  m_Radius: 0.5
   m_Height: 80
   m_Direction: 1
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}

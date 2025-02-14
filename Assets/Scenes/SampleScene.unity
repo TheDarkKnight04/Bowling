@@ -2032,6 +2032,10 @@ PrefabInstance:
       propertyPath: inputManager
       value: 
       objectReference: {fileID: 1985394887}
+    - target: {fileID: 2932348839947668593, guid: 96b45d18746a28547a351c1df5652b6b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7045330354475850842, guid: 96b45d18746a28547a351c1df5652b6b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.0171788
